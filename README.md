@@ -1,8 +1,6 @@
-# React TypeScript Boilerplate
+# Facebook Scheduling
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Atomic design is used in this proyect boilerplate.
+This project is for schedule Facebook post using the Facebook Graph API
 
 ## Libraries used
 * Axios
